@@ -21,13 +21,13 @@ yarn add @honeybee-js/react-layout
 
 ## Docs
 
-| Component | Docs                                                                                     | Status                |
-| --------- | ---------------------------------------------------------------------------------------- | --------------------- |
-| Ly        | [README.md](https://github.com/samline/react-forms/tree/main/docs/Form/README.md)        | Pending documentation |
-| Box       | [README.md](https://github.com/samline/react-forms/tree/main/docs/Label/README.md)       | Pending documentation |
-| Flex      | [README.md](https://github.com/samline/react-forms/tree/main/docs/Input/README.md)       | Pending documentation |
-| Grid      | [README.md](https://github.com/samline/react-forms/tree/main/docs/InputFormat/README.md) | Pending documentation |
-| Track     | [README.md](https://github.com/samline/react-forms/tree/main/docs/Select/README.md)      | Pending documentation |
+| Component | Docs                                                                                | Status                |
+| --------- | ----------------------------------------------------------------------------------- | --------------------- |
+| Ly        | [README.md](https://github.com/samline/react-layout/tree/main/docs/Ly/README.md)    | Pending documentation |
+| Box       | [README.md](https://github.com/samline/react-layout/tree/main/docs/Box/README.md)   | Pending documentation |
+| Flex      | [README.md](https://github.com/samline/react-layout/tree/main/docs/Flex/README.md)  | Pending documentation |
+| Grid      | [README.md](https://github.com/samline/react-layout/tree/main/docs/Grid/README.md)  | Pending documentation |
+| Track     | [README.md](https://github.com/samline/react-layout/tree/main/docs/Track/README.md) | Pending documentation |
 
 ## License
 
