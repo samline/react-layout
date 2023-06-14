@@ -1,5 +1,5 @@
 /* Css */
-import { Css, breakpoints } from './components/Css'
+import { breakpoints, Css } from './components/Css'
 
 /* ./ */
 import { Box } from './components/Box'
@@ -9,4 +9,4 @@ import { Ly } from './components/Ly'
 import { Track } from './components/Track'
 
 export { Box, Flex, Grid, Ly, Track }
-export { Css, breakpoints }
+export { breakpoints, Css }
