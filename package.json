@@ -1,5 +1,5 @@
 {
-  "name": "@honeybee-js/npm-package",
+  "name": "@honeybee-js/react-layout",
   "version": "0.0.1",
   "type": "module",
   "main": "dist/index.js",
@@ -11,12 +11,19 @@
       "require": "./dist/index.js"
     }
   },
-  "homepage": "https://github.com/...",
-  "repository": "...",
+  "homepage": "https://github.com/samline/react-layout",
+  "repository": "samline/react-layout",
   "license": "MIT",
   "keywords": [
     "react",
-    "react-component"
+    "react-component",
+    "layout",
+    "grid",
+    "flex",
+    "html",
+    "markup",
+    "css",
+    "js"
   ],
   "scripts": {
     "dev": "vite",
@@ -46,5 +53,9 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "dependencies": {
+    "styled-components": "^5.3.10",
+    "styled-system": "^5.1.5"
+  }
 }
