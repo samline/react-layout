@@ -1,8 +1,5 @@
-/* Default */
-import React from 'react'
-
 /* Styles */
-import { Ly as LyStyled } from './styles'
+import { Ly as LyStyled } from './styles.js'
 
 /**
  * Ly - "div" as default

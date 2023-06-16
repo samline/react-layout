@@ -1,8 +1,5 @@
-/* Default */
-import React from 'react'
-
 /* Styles */
-import { Flex as FlexStyled } from './styles'
+import { Flex as FlexStyled } from './styles.js'
 
 /**
  * Flex

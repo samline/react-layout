@@ -1,8 +1,5 @@
-/* Default */
-import React from 'react'
-
 /* Styles */
-import { Box as BoxStyled } from './styles'
+import { Box as BoxStyled } from './styles.js'
 
 /**
  * Box - max-width: 1366px

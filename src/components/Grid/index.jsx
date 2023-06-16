@@ -1,8 +1,5 @@
-/* Default */
-import React from 'react'
-
 /* Styles */
-import { Grid as GridStyled } from './styles'
+import { Grid as GridStyled } from './styles.js'
 
 /**
  * Grid

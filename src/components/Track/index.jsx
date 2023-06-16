@@ -1,8 +1,5 @@
-/* Default */
-import React from 'react'
-
 /* Styles */
-import { Track as TrackStyled } from './styles'
+import { Track as TrackStyled } from './styles.js'
 
 /**
  * Track
