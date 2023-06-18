@@ -282,6 +282,11 @@
   resolved "https://registry.yarnpkg.com/@eslint/js/-/js-8.42.0.tgz#484a1d638de2911e6f5a30c12f49c7e4a3270fb6"
   integrity sha512-6SWlXpWU5AvId8Ac7zjzmIOqMOba/JWY8XZ4A7q7Gn1Vlfg/SFFIlrtHXt9nPn4op9ZPAkl91Jao+QQv3r/ukw==
 
+"@honeybee-js/js-interop@^0.0.1":
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/@honeybee-js/js-interop/-/js-interop-0.0.1.tgz#cd392b323f15d2aa7c9f80e68306c7e0bd6538fe"
+  integrity sha512-d2Q9W59YSPaSXKuLou+KXzv5LZVKxu8J3d6e25vnzg6Gg0O33dsCWBiTfpXZkMug/kmkj1ejb27cyrGprmPH7g==
+
 "@humanwhocodes/config-array@^0.11.10":
   version "0.11.10"
   resolved "https://registry.yarnpkg.com/@humanwhocodes/config-array/-/config-array-0.11.10.tgz#5a3ffe32cc9306365fb3fd572596cd602d5e12d2"

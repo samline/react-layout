@@ -55,6 +55,7 @@
     "dist"
   ],
   "dependencies": {
+    "@honeybee-js/js-interop": "^0.0.1",
     "styled-components": "^5.3.10",
     "styled-system": "^5.1.5"
   }
