@@ -1,8 +1,9 @@
 /* Packages */
+import { _interop } from '@honeybee-js/js-interop'
 import styled, { css } from 'styled-components'
 import * as ss from 'styled-system'
 
-export const Track = styled.div`
+export const Track = _interop(styled).div`
   padding: 0.625rem;
 
   ${(props) =>

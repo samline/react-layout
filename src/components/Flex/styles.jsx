@@ -1,8 +1,9 @@
 /* Packages */
+import { _interop } from '@honeybee-js/js-interop'
 import styled, { css } from 'styled-components'
 import { compose, flexbox, grid, layout, space } from 'styled-system'
 
-export const Flex = styled.div`
+export const Flex = _interop(styled).div`
   align-items: center;
   display: flex;
 

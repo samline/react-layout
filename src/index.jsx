@@ -1,6 +1,4 @@
-/* Css */
-
-/* ./ */
+/* Components */
 import { Box } from './components/Box/index.js'
 import { Flex } from './components/Flex/index.js'
 import { Grid } from './components/Grid/index.js'

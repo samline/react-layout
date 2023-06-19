@@ -1,4 +1,5 @@
 /* Packages */
+import { _interop } from '@honeybee-js/js-interop'
 import styled from 'styled-components'
 import {
   background,
@@ -14,7 +15,7 @@ import {
   typography
 } from 'styled-system'
 
-export const Ly = styled.div`
+export const Ly = _interop(styled).div`
   ${compose(
     background,
     border,
